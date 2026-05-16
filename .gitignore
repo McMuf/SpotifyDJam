@@ -1,0 +1,6 @@
+backend/.env
+backend/spotifydjams.sqlite
+backend/node_modules/
+spotifydjams-template-1.21.11/.gradle/
+spotifydjams-template-1.21.11/build/
+spotifydjams-template-1.21.11/run/
