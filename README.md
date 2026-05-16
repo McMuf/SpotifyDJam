@@ -1,4 +1,4 @@
-# SpotifyDJam 🎵
+# SpotifyDJam 
 
 A Minecraft Fabric mod that lets you control Spotify directly from in-game jukeboxes. Play your playlists, create collaborative jam sessions with friends, and watch beat-synced particles pulse from your jukebox in time with the music.
 
@@ -124,12 +124,12 @@ Some features require Spotify Premium:
 
 | Feature | Free | Premium |
 |---------|------|---------|
-| Browse & play playlists | ✅ | ✅ |
-| Pause / Resume | ✅ | ✅ |
-| Skip / Previous | ✅ | ✅ |
-| Shuffle | ❌ | ✅ |
-| Volume control | ❌ | ✅ |
-| Directional audio | ❌ | ✅ |
+| Browse & play playlists | Yes | Yes |
+| Pause / Resume | Yes | Yes |
+| Skip / Previous | Yes | Yes |
+| Shuffle | No | Yes |
+| Volume control | Yes | Yes |
+| Directional audio | Yes | Yes |
 
 ---
 
